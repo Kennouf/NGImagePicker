@@ -5,6 +5,10 @@
 [![License](https://img.shields.io/cocoapods/l/NGImagePicker.svg?style=flat)](http://cocoapods.org/pods/NGImagePicker)
 [![Platform](https://img.shields.io/cocoapods/p/NGImagePicker.svg?style=flat)](http://cocoapods.org/pods/NGImagePicker)
 
+## Description
+
+This pod is pending development is currently not in a place where it can be used. I'll update this as soon as it is available.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
@@ -22,7 +26,7 @@ pod "NGImagePicker"
 
 ## Author
 
-Nicolas Goossaert, nicolas.goossaert@bewoopi.net
+Nicolas Goossaert
 
 ## License
 

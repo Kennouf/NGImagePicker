@@ -1,0 +1,16 @@
+PODS:
+  - NGImagePicker (0.1.0)
+
+DEPENDENCIES:
+  - NGImagePicker (from `../`)
+
+EXTERNAL SOURCES:
+  NGImagePicker:
+    :path: ../
+
+SPEC CHECKSUMS:
+  NGImagePicker: 35a436bb94c851453cd3a8bc7abbf06a302ab276
+
+PODFILE CHECKSUM: 98c199425728e744a7528f9dd7ef0a20c8c59cd2
+
+COCOAPODS: 1.0.1

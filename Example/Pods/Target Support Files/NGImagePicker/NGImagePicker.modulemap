@@ -1,0 +1,6 @@
+framework module NGImagePicker {
+  umbrella header "NGImagePicker-umbrella.h"
+
+  export *
+  module * { export * }
+}
