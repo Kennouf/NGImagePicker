@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NGImagePicker_Example' do
+  pod 'NGImagePicker', :path => '../'
+
+  target 'NGImagePicker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
