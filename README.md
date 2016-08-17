@@ -7,7 +7,7 @@
 
 ## Description
 
-This pod is pending development is currently not in a place where it can be used. I'll update this as soon as it is available.
+This pod is pending development and is currently not in a place where it can be used. I'll update this as soon as it is available.
 
 ## Example
 
